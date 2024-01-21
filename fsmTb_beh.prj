@@ -1,0 +1,4 @@
+vhdl work "fsm_1.vhd"
+vhdl work "fsmTb.vhd"
+vhdl work "SboxGOSTsch.vhf"
+vhdl work "Sboxgostschem.vhf"

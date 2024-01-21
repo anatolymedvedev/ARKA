@@ -1,0 +1,29 @@
+Command line:
+   LFSR_VHDLTb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50634
+
+Tue Jan 16 12:56:17 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5149.94 Meg
+
+ Total Signals          : 15
+ Total Nets             : 10
+ Total Signal Drivers   : 10
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 8
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 372
+Total Line Count : 21
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 4992.65 Meg
+
+Tue Jan 16 12:57:29 2024
+

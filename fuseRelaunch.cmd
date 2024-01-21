@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/admin/Desktop/Labs_arka/ARKA/top_tb_isim_beh.exe" -prj "C:/Users/admin/Desktop/Labs_arka/ARKA/top_tb_beh.prj" "work.top_tb" 

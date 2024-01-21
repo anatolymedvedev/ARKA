@@ -1,0 +1,4 @@
+vhdl isim_temp "uart_reciver.vhd"
+vhdl isim_temp "uart_reciver_Tb.vhd"
+vhdl isim_temp "SboxGOSTsch.vhf"
+vhdl isim_temp "Sboxgostschem.vhf"

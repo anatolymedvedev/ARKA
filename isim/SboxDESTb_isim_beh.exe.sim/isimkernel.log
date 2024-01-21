@@ -1,0 +1,29 @@
+Command line:
+   SboxDESTb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50482
+
+Tue Jan 16 12:17:15 2024
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 5149.95 Meg
+
+ Total Signals          : 10
+ Total Nets             : 5
+ Total Signal Drivers   : 5
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 3
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 365
+Total Line Count : 18
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5149.95 Meg
+
+Tue Jan 16 12:17:30 2024
+

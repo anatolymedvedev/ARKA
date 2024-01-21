@@ -1,0 +1,3 @@
+MODULE fthfgb
+	SUBMODULE GOST_Decoder
+		INSTANCE XLXI_1

@@ -1,0 +1,4 @@
+vhdl work "GOST_Decoder.vhd"
+vhdl work "GOST_Coder.vhd"
+vhdl work "Sboxgostschem.vhf"
+vhdl work "SboxGostschemeTb.vhd"

@@ -1,0 +1,4 @@
+vhdl isim_temp "top.vhd"
+vhdl isim_temp "top_tb.vhd"
+vhdl isim_temp "SboxGOSTsch.vhf"
+vhdl isim_temp "Sboxgostschem.vhf"

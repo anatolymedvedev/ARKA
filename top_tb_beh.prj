@@ -1,0 +1,4 @@
+vhdl work "top.vhd"
+vhdl work "top_tb.vhd"
+vhdl work "SboxGOSTsch.vhf"
+vhdl work "Sboxgostschem.vhf"

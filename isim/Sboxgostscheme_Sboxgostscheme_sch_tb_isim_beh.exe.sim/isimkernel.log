@@ -1,0 +1,29 @@
+Command line:
+   Sboxgostscheme_Sboxgostscheme_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50084
+
+Sun Jan 21 16:31:36 2024
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.06 Meg
+
+ Total Signals          : 74
+ Total Nets             : 63
+ Total Signal Drivers   : 19
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 7
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 546
+Total Line Count : 59
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5464.63 Meg
+
+Sun Jan 21 16:32:11 2024
+
