@@ -1,5 +1,5 @@
 # Hardware implementation of crypto algorithms
-Laboratory work on ARKA, 9th semester.
+Laboratory work on ARCA in VHDL language, 9th semester.
 
 | LAB | README |
 |---------|---------|
