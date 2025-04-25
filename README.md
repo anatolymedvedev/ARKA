@@ -1,5 +1,5 @@
-# Hardware implementation of crypto algorithms
-Laboratory work on ARCA in VHDL language, 9th semester.
+# Hardware implementation of cryptoalgorithms
+Laboratory work on hardware implementation of cryptoalgorithms in VHDL language, 9th semester.
 
 | LAB | README |
 |---------|---------|
